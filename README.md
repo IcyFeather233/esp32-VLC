@@ -8,8 +8,8 @@ Drive an WS2812 LED strip based on the RMT driver [SalimTerryLi/pwe-virtual-driv
 
 ## Manchester Coding
 
-Here is [YYB's manchester-OOC](https://paste.ubuntu.com/p/CvfnrRqcGx/)
+Here is [YYB's manchester-OOC](https://paste.ubuntu.com/p/fJGT6d4YjY/)
 
 ## Android app
 
-to do
+扫描解码部分已经完成，别的什么都没有
