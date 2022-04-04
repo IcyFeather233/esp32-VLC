@@ -16,6 +16,8 @@ Here is [YYB's manchester-OOK](https://paste.ubuntu.com/p/fJGT6d4YjY/)
 
 更新：上面的皮卡说不能用，上面是 stm32 的代码，用 stm32 的时钟实现的，arduino 不行，要手写 machester ook 编码
 
+https://github.com/mchr3k/arduino-libs-manchester
+
 ## Android app
 
 扫描解码部分已经完成，别的什么都没有
