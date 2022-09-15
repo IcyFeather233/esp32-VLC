@@ -1,0 +1,8 @@
+Android NDK: OpenCV: You should ignore warning about 'non-system libraries in linker flags' and 'opencv_java' library.    
+Android NDK:         'OPENCV_INSTALL_MODULES:=on' can be used to build APK with included OpenCV binaries    
+md "D:\tools\new\PolarisApp\lightlib\build\intermediates\ndkBuild\debug\lib\x86_64" >NUL 2>NUL || rem
+C:/Users/zzz/AppData/Local/Android/Sdk/ndk/21.3.6528147/build//../prebuilt/windows-x86_64/bin/echo.exe [x86_64] "Gdbserver      ": "[x86_64-linux-android] D:\tools\new\PolarisApp\lightlib\build\intermediates\ndkBuild\debug\lib/x86_64/gdbserver"
+copy /b/y "C:\Users\zzz\AppData\Local\Android\Sdk\ndk\21.3.6528147\build\\..\prebuilt\android-x86_64\gdbserver\gdbserver" "D:\tools\new\PolarisApp\lightlib\build\intermediates\ndkBuild\debug\lib\x86_64\gdbserver" > NUL
+C:/Users/zzz/AppData/Local/Android/Sdk/ndk/21.3.6528147/build//../prebuilt/windows-x86_64/bin/echo.exe [x86_64] "Gdbsetup       ": "D:\tools\new\PolarisApp\lightlib\build\intermediates\ndkBuild\debug\lib/x86_64/gdb.setup"
+C:/Users/zzz/AppData/Local/Android/Sdk/ndk/21.3.6528147/build//../prebuilt/windows-x86_64/bin/echo.exe "set solib-search-path D:/tools/new/PolarisApp/lightlib/build/intermediates/ndkBuild/debug/obj/local/x86_64" > D:\tools\new\PolarisApp\lightlib\build\intermediates\ndkBuild\debug\lib/x86_64/gdb.setup
+C:/Users/zzz/AppData/Local/Android/Sdk/ndk/21.3.6528147/build//../prebuilt/windows-x86_64/bin/echo.exe "directory C:/Users/zzz/AppData/Local/Android/Sdk/ndk/21.3.6528147/build//../toolchains/llvm/prebuilt/windows-x86_64/sysroot" >> D:\tools\new\PolarisApp\lightlib\build\intermediates\ndkBuild\debug\lib/x86_64/gdb.setup

@@ -1,0 +1,60 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "D:\\tools\\new\\PolarisApp",
+      "sdkFolder": "C:\\Users\\zzz\\AppData\\Local\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "D:\\tools\\new\\PolarisApp\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "D:\\tools\\new\\PolarisApp\\app",
+      "makeFile": "D:\\tools\\APP0813\\opencv-3.4.6-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\OpenCV.mk",
+      "buildSystem": "NDK_BUILD",
+      "compilerSettingsCacheFolder": "D:\\tools\\new\\PolarisApp\\.cxx",
+      "cxxFolder": "D:\\tools\\new\\PolarisApp\\app\\.cxx",
+      "ndkFolder": "C:\\Users\\zzz\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147",
+      "ndkVersion": "21.3.6528147",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "release",
+    "soFolder": "D:\\tools\\new\\PolarisApp\\app\\build\\intermediates\\ndkBuild\\release\\lib",
+    "objFolder": "D:\\tools\\new\\PolarisApp\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local",
+    "jsonFolder": "D:\\tools\\new\\PolarisApp\\app\\.cxx\\ndkBuild\\release",
+    "gradleBuildOutputFolder": "D:\\tools\\new\\PolarisApp\\app\\.cxx\\cxx\\release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 26,
+  "cxxBuildFolder": "D:\\tools\\new\\PolarisApp\\app\\.cxx\\ndkBuild\\release\\arm64-v8a",
+  "jsonFile": "D:\\tools\\new\\PolarisApp\\app\\.cxx\\ndkBuild\\release\\arm64-v8a\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "D:\\tools\\new\\PolarisApp\\app\\.cxx\\cxx\\release\\arm64-v8a",
+  "objFolder": "D:\\tools\\new\\PolarisApp\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\arm64-v8a",
+  "buildCommandFile": "D:\\tools\\new\\PolarisApp\\app\\.cxx\\ndkBuild\\release\\arm64-v8a\\build_command.txt",
+  "buildOutputFile": "D:\\tools\\new\\PolarisApp\\app\\.cxx\\ndkBuild\\release\\arm64-v8a\\build_output.txt",
+  "modelOutputFile": "D:\\tools\\new\\PolarisApp\\app\\.cxx\\ndkBuild\\release\\arm64-v8a\\build_model.json",
+  "jsonGenerationLoggingRecordFile": "D:\\tools\\new\\PolarisApp\\app\\.cxx\\ndkBuild\\release\\arm64-v8a\\json_generation_record.json",
+  "compileCommandsJsonFile": "D:\\tools\\new\\PolarisApp\\app\\.cxx\\ndkBuild\\release\\arm64-v8a\\compile_commands.json"
+}

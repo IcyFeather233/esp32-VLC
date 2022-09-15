@@ -1,0 +1,16 @@
+Executable : C:\Users\yangy\AppData\Local\Android\Sdk\ndk\21.3.6528147\ndk-build.cmd
+arguments : 
+NDK_PROJECT_PATH=null
+APP_BUILD_SCRIPT=C:\AndroidProgram\opencv-3.4.6-android-sdk\OpenCV-android-sdk\sdk\native\jni\OpenCV.mk
+APP_ABI=armeabi-v7a
+NDK_ALL_ABIS=armeabi-v7a
+NDK_DEBUG=1
+APP_PLATFORM=android-21
+NDK_OUT=C:/Projects/LabDemo/VLC_Demo2020/APP/openCVLibrary346/build/intermediates/ndkBuild/debug/obj
+NDK_LIBS_OUT=C:\Projects\LabDemo\VLC_Demo2020\APP\openCVLibrary346\build\intermediates\ndkBuild\debug\lib
+APP_SHORT_COMMANDS=false
+LOCAL_SHORT_COMMANDS=false
+-B
+-n
+jvmArgs : 
+

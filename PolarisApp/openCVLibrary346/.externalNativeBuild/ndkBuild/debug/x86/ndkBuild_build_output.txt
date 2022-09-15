@@ -1,0 +1,8 @@
+Android NDK: OpenCV: You should ignore warning about 'non-system libraries in linker flags' and 'opencv_java' library.    
+Android NDK:         'OPENCV_INSTALL_MODULES:=on' can be used to build APK with included OpenCV binaries    
+md "C:\Projects\LabDemo\VLC_Demo2020\APP\openCVLibrary346\build\intermediates\ndkBuild\debug\lib\x86" >NUL 2>NUL || rem
+C:/Users/yangy/AppData/Local/Android/Sdk/ndk/21.3.6528147/build//../prebuilt/windows-x86_64/bin/echo.exe [x86] "Gdbserver      ": "[i686-linux-android] C:\Projects\LabDemo\VLC_Demo2020\APP\openCVLibrary346\build\intermediates\ndkBuild\debug\lib/x86/gdbserver"
+copy /b/y "C:\Users\yangy\AppData\Local\Android\Sdk\ndk\21.3.6528147\build\\..\prebuilt\android-x86\gdbserver\gdbserver" "C:\Projects\LabDemo\VLC_Demo2020\APP\openCVLibrary346\build\intermediates\ndkBuild\debug\lib\x86\gdbserver" > NUL
+C:/Users/yangy/AppData/Local/Android/Sdk/ndk/21.3.6528147/build//../prebuilt/windows-x86_64/bin/echo.exe [x86] "Gdbsetup       ": "C:\Projects\LabDemo\VLC_Demo2020\APP\openCVLibrary346\build\intermediates\ndkBuild\debug\lib/x86/gdb.setup"
+C:/Users/yangy/AppData/Local/Android/Sdk/ndk/21.3.6528147/build//../prebuilt/windows-x86_64/bin/echo.exe "set solib-search-path C:/Projects/LabDemo/VLC_Demo2020/APP/openCVLibrary346/build/intermediates/ndkBuild/debug/obj/local/x86" > C:\Projects\LabDemo\VLC_Demo2020\APP\openCVLibrary346\build\intermediates\ndkBuild\debug\lib/x86/gdb.setup
+C:/Users/yangy/AppData/Local/Android/Sdk/ndk/21.3.6528147/build//../prebuilt/windows-x86_64/bin/echo.exe "directory C:/Users/yangy/AppData/Local/Android/Sdk/ndk/21.3.6528147/build//../toolchains/llvm/prebuilt/windows-x86_64/sysroot" >> C:\Projects\LabDemo\VLC_Demo2020\APP\openCVLibrary346\build\intermediates\ndkBuild\debug\lib/x86/gdb.setup

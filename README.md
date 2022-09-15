@@ -1,36 +1,19 @@
 # esp32-VLC
 
-Use esp32 and ws2812 to make a Visible Light Communication System. 
+esp32/esp8266 和 三色RGB 做的 VLC(Visible Light Communication)可见光通信项目。 
 
-## PCB
+## demo 硬件展示
 
-[lceda esp12f VLC](https://u.lceda.cn/account/user/projects/index/detail?project=e002af75aaf0421280fabf62bafaa944&folder=all)
+![esp8266](./photo/esp8266.jpg "esp8266")
 
-## drive ws2812
+![rgb](./photo/rgb.jpg "rgb")
 
-Drive an WS2812 LED strip based on the RMT driver [SalimTerryLi/pwe-virtual-driver](https://github.com/SalimTerryLi/pwe-virtual-driver)
+![esp8266+rgb](./photo/esp8266%2Brgb.jpg "esp8266+rgb")
 
-## Manchester Coding
+## 编码
 
-Here is [YYB's manchester-OOK](https://paste.ubuntu.com/p/fJGT6d4YjY/)
+见 manchester.ino 文件
 
-更新：上面的皮卡说不能用，上面是 stm32 的代码，用 stm32 的时钟实现的，arduino 不行，要手写 machester ook 编码
+## 解码
 
-https://github.com/mchr3k/arduino-libs-manchester
-
-## Android app
-
-扫描解码部分已经完成，别的什么都没有
-
---------------
-
-# connection
-
-## 0.66'' 64x48 oled - esp8266MOD
-
-| oled        | esp8266     |
-| ----------- | ----------- |
-| D1          | D1          |
-| D2          | D2          |
-| GND         | GND         |
-| 3v3         | 3v3         |
+见 PolarisApp
